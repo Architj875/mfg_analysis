@@ -1,4 +1,4 @@
-# Dual Dataset Analysis - Manufacturing Efficiency Prediction
+# MFG Dataset Analysis - Manufacturing Efficiency Prediction
 
 ## 🎯 Project Overview
 
@@ -50,21 +50,14 @@ Instead of treating all data uniformly, we:
 
 ### 1. Main Analysis
 ```bash
-python dual_dataset_analysis.py
+python dataset2.ipynb
 ```
 Outputs:
 - Detailed metrics for both datasets
 - Cross-validation results
 - Averaged performance metrics
 
-### 2. Generate Visualizations
-```bash
-python visualize_dual_dataset.py
-```
-Outputs:
-- `dual_dataset_comparison.png` - Comparison charts
-
-### 3. Detailed Metrics
+### 2. Detailed Metrics
 ```bash
 python detailed_metrics_comparison.py
 ```
@@ -83,14 +76,9 @@ Outputs:
 - **detailed_metrics_comparison.py** - Comprehensive metrics
 
 ### Documentation
-- **DUAL_DATASET_SUMMARY.md** - Detailed summary
-- **DUAL_DATASET_FINAL_REPORT.txt** - Complete report
 - **IMPLEMENTATION_SUMMARY.txt** - Implementation details
 - **PROJECT_COMPLETION_CHECKLIST.txt** - Completion checklist
 - **README_DUAL_DATASET.md** - This file
-
-### Visualizations
-- **dual_dataset_comparison.png** - Performance comparison charts
 
 ---
 
